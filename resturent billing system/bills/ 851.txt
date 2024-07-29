@@ -1,0 +1,21 @@
+		 **Welcome Customer**
+
+Bill Number: 851
+
+Customer Name: bhaskar pal
+Customer Phone Number: 8167762039
+
+============================================================
+Product 			Quantity			Price
+============================================================
+Facecreme			  3			  300
+Suger			  2			  100
+Sprite			  1			  75
+Fruti			  1			  55
+------------------------------------------------------------
+ Cosmatic Tax		146.25 Rs
+ Grocery Tax		5.0 Rs
+ Cold Drinks Tax		19.5 Rs
+
+Total Bill 				 985.75
+------------------------------------------------------------

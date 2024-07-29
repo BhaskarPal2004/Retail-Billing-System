@@ -1,0 +1,19 @@
+		 **Welcome Customer**
+
+Bill Number: 857
+
+Customer Name: r
+Customer Phone Number: b
+
+============================================================
+Product 			Quantity			Price
+============================================================
+Facecreme			  3			  300
+Daal			  4			  268
+------------------------------------------------------------
+ Cosmatic Tax		146.25 Rs
+ Grocery Tax		13.4 Rs
+ Cold Drinks Tax		0.0 Rs
+
+Total Bill 				 1012.65
+------------------------------------------------------------

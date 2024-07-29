@@ -1,0 +1,20 @@
+		 **Welcome Customer**
+
+Bill Number: 505
+
+Customer Name: gu
+Customer Phone Number: 134356
+
+============================================================
+Product 			Quantity			Price
+============================================================
+Facewash			  5			  0
+Suger			  6			  300
+Pepsi			  6			  330
+------------------------------------------------------------
+ Cosmatic Tax		0.0 Rs
+ Grocery Tax		15.0 Rs
+ Cold Drinks Tax		49.5 Rs
+
+Total Bill 				 694.5
+------------------------------------------------------------
